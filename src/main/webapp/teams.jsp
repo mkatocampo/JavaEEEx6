@@ -43,7 +43,7 @@
         Student stu1 = null;
         Student stu2 = null;
         
-        errors = new ArrayList<String>();   
+        errors = new Vector<String>();   
         boolean submitted = false;
         Vector<Student> team = new Vector<Student>();
         
